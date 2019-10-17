@@ -1,4 +1,4 @@
-# Tecnologias Utilizadas: PHP7, Bootstrapp.
+# Tecnologias Utilizadas: PHP7, Bootstrap.
 
   Banco: MySql
   User: Root

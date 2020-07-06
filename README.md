@@ -1,2 +1,2 @@
 # Basic Crud
-Simple system of CRUD
+Simple scheme of CRUD
